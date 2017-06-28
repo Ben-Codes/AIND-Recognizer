@@ -5,6 +5,7 @@
 This project was completed by myself during my AI nanodegree.
 Project Status:
 - incomplete
+- test
 
 
 ### Install
